@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calendars on TorrencePayroll</title>
+    <link>/calendars/</link>
+    <description>Recent content in Calendars on TorrencePayroll</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 23:59:52 -0500</lastBuildDate>
+    
+	<atom:link href="/calendars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
